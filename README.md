@@ -6,4 +6,4 @@
 
 It's still a beta, going to update soon.
 
-## Download it [here](http://hnng.moe/f/UDs)
+## Download it [here](https://transfer.sh/49V3h/osu!anxietymeter.exe)
