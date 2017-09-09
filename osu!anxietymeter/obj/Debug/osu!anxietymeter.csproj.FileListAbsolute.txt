@@ -1,0 +1,10 @@
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\bin\Debug\osu!anxietymeter.exe.config
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\bin\Debug\osu!anxietymeter.exe
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\bin\Debug\osu!anxietymeter.pdb
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\obj\Debug\osu!anxietymeter.csprojResolveAssemblyReference.cache
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\obj\Debug\osu_anxietymeter.Form1.resources
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\obj\Debug\osu_anxietymeter.Properties.Resources.resources
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\obj\Debug\osu!anxietymeter.csproj.GenerateResource.Cache
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\obj\Debug\osu!anxietymeter.csproj.CoreCompileInputs.cache
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\obj\Debug\osu!anxietymeter.exe
+C:\Users\ZzAle\Desktop\osu!anxietymeter\osu!anxietymeter\osu!anxietymeter\obj\Debug\osu!anxietymeter.pdb
