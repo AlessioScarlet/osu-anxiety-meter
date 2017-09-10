@@ -117,4 +117,32 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <metadata name="timer1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAAAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAQAQAAAAAAAAAAAAAAAAAAAAA
+        AAD////////////////////////////////////////+/////v//////////////////////////////
+        //////////////////////////////7//P////v////8//Xx+v/28vv////8////+//+//z/////////
+        //////////////////////////////7/+//+//3/wJP4/5dR7/+ZUPT/m1L3/5tT9P/BlPn//f77////
+        +/////////////////////////////7/+v/y6P//k03q/6Rd/f+lYvj/pWL3/55g7f+fYO7/o1z7/5lQ
+        9P/y6P7////7//////////////////7//f/+/v3/k03q/6Jh9v+jYvP/pGP1/6Vj9/+oZfv/oWHx/6Rj
+        9v+gX/H/mFDy//3+/P/+//3///////////////z/vZLz/5pW8f+kXP3/oV/z/55b8/+fW/T/o2L1/6Jc
+        +f+eWvT/nV7t/5xV9f/Clfv////7///////////////8/5hQ8/+jaez/2sL2/6Ji8v/Cnu7/y6j2/5VN
+        7//JpPj/0rP4/6Jo6/+9mOv/lUzv/////f/////////+//by+/+SQ/T/+fj6/6Fj7//y7/f/nl3v//Xx
+        +v/Ane3/4dH2/+XW+P+tee7/yaf1/5RJ8v/08fn////+/////v/28vv/jUHs//Tw+f+ygu3/6t35/+vh
+        +P/Irun/tYH1/9K48v/izvr/r37u/+bZ9v+YSP3/9vH7/////v/////////7/59U/f+ZXeX/yKnv/6Bd
+        9P+pa/b/yKX0/6Rr6/+tee//toD5/6t17v/o4PL/kEXu/////P//////////////+//AlPj/oFn4/6Re
+        /P+hYPP/n1/x/6Jc+P+nYvz/n17w/6Je9v+oaPf/uYr1/72O+P////z////////////+//z//v/+/5hP
+        8v+cXev/qmX+/6Vj9/+mZPn/nl/s/6Ni9P+pZf7/p2L+/5NK7v/9/vv//v/9//////////////////7/
+        +v/y6P7/mlH2/6Fb+P+kYvb/pmT5/6dk+/+bXej/m1ju/5ZP7//y6P7//v/7////////////////////
+        /////////v/6//7//f++kvX/lVDs/5dQ8P+YUPL/mlLz/8CT9v/+//7//v/6////////////////////
+        ///////////////////9/vz////8/////f/28vz/9vL7/////f////v//v/8////////////////////
+        ///////////////////////////////////////////+/////v//////////////////////////////
+        ////////AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA
+        //8AAP//AAD//w==
+</value>
+  </data>
 </root>
