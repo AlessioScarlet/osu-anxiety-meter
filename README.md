@@ -6,4 +6,6 @@
 
 It's still a beta, going to update soon.
 
+## [Video](https://www.youtube.com/watch?v=PPi8P7UTRtI)
+
 ## Download it [here](https://github.com/AlessioScarlet/osu-anxiety-meter/raw/master/osu!anxietymeter/bin/Debug/osu!anxietymeter.exe)
